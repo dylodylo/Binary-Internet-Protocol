@@ -6,8 +6,8 @@ Projekt z przedmiotu Technologie Sieciowe.
 Treść zadania:
   Temat: Komunikacja pomiędzy klientem a serwerem (n:1), w oparciu o autorski protokół binarny.
      Protokół:
-         połączeniowy,
-         wszystkie dane przesyłane w postaci binarnej,
+      połączeniowy,
+      wszystkie dane przesyłane w postaci binarnej,
          pole operacji o długości 2 bitów,
          pola liczb o długości 32 bitów,
          pole statusu o długości 4 bitów,
